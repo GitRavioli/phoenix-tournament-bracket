@@ -2,8 +2,8 @@
     "redirects": [
       {
         "source": "/",
-        "destination": "/maintenance.html",
-        "permanent": 301
+        "destination": "/",
+        "permanent": false
       }
     ]
   }
